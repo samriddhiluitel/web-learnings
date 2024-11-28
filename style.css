@@ -1,3 +1,36 @@
 body{
-    background-color: black;
+    background-color: cornflowerblue; 
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+button{
+
+background-color: bisque;}
+
+#profile{
+    height: 200px;
+    width: 200px;
+}
+.mainSection{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+}
+.nameLogo{
+    color: red;
+    font-size: 50px;
+    font-weight: bold ;
+    border: 2px solid rgb(21, 21, 163);
+    border-radius: 100%;
+    background-color: deeppink;
+    height: 40px;
+    width: 60px;
+    text-align: center;
+    padding-bottom: 25px;
+
+
+
+
 }
